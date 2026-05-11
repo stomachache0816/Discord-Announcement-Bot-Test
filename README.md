@@ -2,13 +2,13 @@
 絨毛黃金社 Discord自動公告機器人 測試
 
 * > [README.md (HackMD線上平台連結)](https://hackmd.io/@stomachache0816/r1K6YlkJfg) - 建議使用
-* 電子郵件 : [stomachcahe0816@gmail.com](mailto:stomachcahe0816@gmail.com)
+* Bot及兩個Server的頭像: [Google雲端硬碟連結](https://drive.google.com/drive/folders/15GKKdLyet5T_3Mt4chFxRsB9xgFTBFt-?usp=sharing)
 
 ## 目錄
 
 * [拉取專案](#拉取專案)
 * [Python環境建置](#Python環境建置)
-* [Bot_Token及Channel_ID檔案匯入](#Bot_Token及Channel_ID檔案匯入)
+* [存放Bot_Token及Channel_ID之檔案建置](#存放Bot_Token及Channel_ID之檔案建置)
 
 ## 拉取專案
 在想要放置專案的目錄開啟`cmd`，輸入:
@@ -69,7 +69,7 @@ git clone https://github.com/stomachache0816/Discord-Announcement-Bot-Test
 
 ## 存放Bot_Token及Channel_ID之檔案建置
 
-在專案跟目錄建立`.env`檔案(含副檔名)。
+在專案根目錄建立`.env`檔案(含副檔名)。
 
 ```.env
 BOT_TOKEN=[Your bot token]
