@@ -26,16 +26,27 @@
     py -m venv venv
     ```
 
-4. 在IDE內選擇`venv`虛擬環境的Interpreter的路徑。
+4. 進入`venv`虛擬環境資料夾。
     ```
-    ./venv/Scripts/python.exe
+    cd venv
     ```
 
-5. 回到專案根目錄。
+5. 進入`Scripts`資料夾。
+    ```
+    cd Scripts
+    ```
+
+6. 啟動虛擬環境。
+    ```
+    activate
+    ```
+
+7. 回到專案根目錄。
     ```
     cd ../..
     ```
-6. 在專案根目錄啟用虛擬環境並執行指令安裝`requirements.txt`指定的套件。
+
+8. 在專案根目錄啟用虛擬環境並執行指令安裝`requirements.txt`指定的套件。
     ```
     pip install -r ./requirements.txt
     ```
