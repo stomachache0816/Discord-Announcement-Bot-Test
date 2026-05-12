@@ -8,7 +8,7 @@
     > [https://drive.google.com/drive/folders/15GKKdLyet5T_3Mt4chFxRsB9xgFTBFt-?usp=sharing](https://drive.google.com/drive/folders/15GKKdLyet5T_3Mt4chFxRsB9xgFTBFt-?usp=sharing)
 
 * Demo影片:
-    > {%youtube ytB61O4WoGU %}
+    > https://www.youtube.com/watch?v=ytB61O4WoGU
 
 ## 目錄
 
