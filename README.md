@@ -1,8 +1,14 @@
 # Discord-Announcement-Bot-Test
 絨毛黃金社 Discord自動公告機器人 測試
 
-* > [README.md (HackMD線上平台連結)](https://hackmd.io/@stomachache0816/r1K6YlkJfg) - 建議使用
-* Bot及兩個Server的頭像: [Google雲端硬碟連結](https://drive.google.com/drive/folders/15GKKdLyet5T_3Mt4chFxRsB9xgFTBFt-?usp=sharing)
+* README.md-HackMD線上平台連結 (建議使用):
+    > [https://hackmd.io/@stomachache0816/r1K6YlkJfg](https://hackmd.io/@stomachache0816/r1K6YlkJfg)
+
+* Bot及兩個Server的頭像: 
+    > [https://drive.google.com/drive/folders/15GKKdLyet5T_3Mt4chFxRsB9xgFTBFt-?usp=sharing](https://drive.google.com/drive/folders/15GKKdLyet5T_3Mt4chFxRsB9xgFTBFt-?usp=sharing)
+
+* Demo影片:
+    > {%youtube ytB61O4WoGU %}
 
 ## 目錄
 
